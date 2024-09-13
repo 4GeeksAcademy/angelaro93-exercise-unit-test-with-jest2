@@ -1,5 +1,5 @@
 test("One euro should be 1.07 dollars", function() {
-    // Importo la funcion desde app.js
+    // Importada la funcion desde app.js
     const { fromEuroToDollar } = require('./app.js');
 
     // Uso la función como debe ser usada
